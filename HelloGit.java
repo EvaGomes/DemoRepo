@@ -3,7 +3,7 @@
  * controlo de versões usando o git.
  * 
  * @author Eva G
- * @version 1.0 (06/Oct/2014)
+ * @version 2.0 (09/Oct/2014)
  */
 public class HelloGit
 {
@@ -11,7 +11,7 @@ public class HelloGit
 	public static void main( String[] args )
 	{
 		System.out.println( "Hello World" );
-		System.out.println( "1st version" );
+		System.out.println( "2nd version" );
 	}
 
 }
